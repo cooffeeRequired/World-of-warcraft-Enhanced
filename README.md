@@ -1,4 +1,4 @@
-# World-of-Warcract (ALT-GR-Fixer)
+# World-of-Warcraft (ALT-GR-Fixer)
 
 ## How's that work?
 
