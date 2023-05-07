@@ -9,6 +9,13 @@ Copy those file to the Wow root directory: `wow-enhanced.exe`
 
 Then change your shortcut on your desktop to `wow-enhanced.exe`
 
+## Supported Servers
+> * **TwinStar** ✅
+> * **StormForge** ✅
+> * **MistOfWorld** ✅
+> * **Retail** 🟠 (Unknown)
+> * **Classic** 🟠 (Unknown)
+
 And enjoys!
 
 Sincerely CoffeeRequired (CoffeeRequired#2039)
