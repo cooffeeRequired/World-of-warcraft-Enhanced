@@ -2,7 +2,7 @@
 
 ## How's that work?
 
-The world of warcraft will be start after cleared a clipboard memory. So the ALTgr can't be pasted into password fields
+The world of warcraft will be start after cleared a clipboard memory. So the ALTgr can't be pasted into password fields, and your System clipboard will be recovery while the world of warcraft will stop or exited.
 
 ## Step to install:
 Copy those file to the Wow root directory: `wow-enhanced.exe`
